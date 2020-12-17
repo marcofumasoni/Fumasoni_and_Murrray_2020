@@ -1,6 +1,6 @@
 The folder contains the code I wrote in python to analyze the data used for the manuscript
 
-The role of genome architecture on the adaptation to DNA replication stress, Fumasoni and Murray, 2020.
+'Genome architecture shapes evolutionary adaptation to DNA replication stress', Fumasoni and Murray, 2020.
 
 The code was written in Python and designed to be run in an iPython Notebook or Jupiter Notebook environment.
 
